@@ -2,7 +2,7 @@ resources:
 - name: github
   type: git
   source:
-    uri: https://petegee:oLgf8,64@github.com/petegee/WebApplication.git
+    uri: https://petegee:oLgf8,64@github.com/petegee/WebApplication1.git
     branch: master
 
 jobs:
